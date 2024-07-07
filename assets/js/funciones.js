@@ -53,6 +53,17 @@ const propiedadesVenta = [
 	costo: 9500,
 	smoke: true,
 	pets: true
+	},
+	{
+	src: 'assets/img/img-apto-05.jpg',
+	titulo: 'Loft duplex en centro empresarial',
+	descripcion: 'Todas las start ups están ubicadas en las cercanías, además de cafeterías y lo que necesites.',
+	ubicacion: 'Kala Street 2324, CA 78212',
+	habitaciones: 2,
+	baños: 2,
+	costo: 3500,
+	smoke: true,
+	pets: true
 	}
 	]
 
@@ -111,6 +122,17 @@ const propiedadesVenta = [
 		costo: 7000,
 		smoke: true,
 		pets: true
+		},
+		{
+		src: 'assets/img/img-apto-06.jpg',
+		titulo: 'Especial casa en atico',
+		descripcion: 'Pequeño y hogareño lugar, para una escapada estando en la ciudad',
+		ubicacion: 'Walking Street, Siempre viva town, CA 03234',
+		habitaciones: 1,
+		baños: 1,
+		costo: 2000,
+		smoke: true,
+		pets: false
 		}
 		]
 	

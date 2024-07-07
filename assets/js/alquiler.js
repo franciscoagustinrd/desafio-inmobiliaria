@@ -1,1 +1,1 @@
-sectionPropiedades(propiedadesAlquiler, "alquilerSection", 5);
+sectionPropiedades(propiedadesAlquiler, "alquilerSection", 6);
