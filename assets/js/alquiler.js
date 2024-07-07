@@ -1,0 +1,1 @@
+sectionPropiedades(propiedadesAlquiler, "alquilerSection", 5);

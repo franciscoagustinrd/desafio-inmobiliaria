@@ -1,0 +1,1 @@
+sectionPropiedades(propiedadesVenta, "ventaSection",5);
